@@ -5,10 +5,4 @@ Automated test systems may be with a DAQ module or a stand-alone controller, but
 
 ## Overview
 
-![ATE Framework Launcher](/ReadME images/san-juan-mountains.jpg "San Juan Mountains")
-
-![ATE Framework Launcher](../ReadME Images/Launcher.PNG "ATE Launcher")]
-
-
-
 ## ATE Project Specifications
